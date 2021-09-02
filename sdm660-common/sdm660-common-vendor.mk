@@ -277,6 +277,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/sdm660-common/proprietary/vendor/lib/libqmi_encdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqmi_encdec.so \
     vendor/asus/sdm660-common/proprietary/vendor/lib/libqmiservices.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqmiservices.so \
     vendor/asus/sdm660-common/proprietary/vendor/lib/libqseed3.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqseed3.so \
+    vendor/asus/sdm660-common/proprietary/vendor/lib/libqti-perfd-client.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqti-perfd-client.so \
     vendor/asus/sdm660-common/proprietary/vendor/lib/libqtigef.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqtigef.so \
     vendor/asus/sdm660-common/proprietary/vendor/lib/librs_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/librs_adreno.so \
     vendor/asus/sdm660-common/proprietary/vendor/lib/librs_adreno_sha1.so:$(TARGET_COPY_OUT_VENDOR)/lib/librs_adreno_sha1.so \
@@ -444,6 +445,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/sdm660-common/proprietary/vendor/lib64/libqrtr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqrtr.so \
     vendor/asus/sdm660-common/proprietary/vendor/lib64/libqseed3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqseed3.so \
     vendor/asus/sdm660-common/proprietary/vendor/lib64/libqsocket.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqsocket.so \
+    vendor/asus/sdm660-common/proprietary/vendor/lib64/libqti-perfd-client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqti-perfd-client.so \
     vendor/asus/sdm660-common/proprietary/vendor/lib64/librcc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librcc.so \
     vendor/asus/sdm660-common/proprietary/vendor/lib64/libril-qc-hal-qmi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libril-qc-hal-qmi.so \
     vendor/asus/sdm660-common/proprietary/vendor/lib64/libril-qc-ltedirectdisc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libril-qc-ltedirectdisc.so \
